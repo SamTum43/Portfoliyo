@@ -1078,7 +1078,7 @@ a[href^="tel:"] {
 .Main_Scree_Layout{
   display: flex;
   flex-wrap: wrap;
-  padding-bottom: 38px;
+  background: #000;
 }
 .footer_blok_left{
   width: 27%;
