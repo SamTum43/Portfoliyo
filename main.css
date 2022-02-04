@@ -193,6 +193,9 @@ header {
               .titel_bottom {
                 padding-bottom: 20px;
               }
+              .nav{
+                background: rgba(0, 0, 0, 0.459);
+              }
             }
 /*************** header END *************/
 /****************  SECTION-1 begin **************/
@@ -449,8 +452,8 @@ header {
       font-size: 25px;
   }
   .line_2{
-    width: 105px;
-    margin-left: 130px;
+    width: 93px;
+    margin-left: 121px;
   }
   .navbar_2 {
     font-size: 7px;    
@@ -983,7 +986,7 @@ a[href^="tel:"] {
   margin-left: 0px;
 }
 .Location_map{
-  padding: 30px 0px 18px 0px;
+  padding: 15px 0px 18px 0px;
   color: #fff;
   font-size: 16px;
   font-family: 'Myriad Pro';
@@ -1044,7 +1047,7 @@ a[href^="tel:"] {
 /************* max-width: 720px *************/
 @media (max-width: 720px) {
   .blok_rght {
-    padding-left: 85px;
+    padding-left: 40px;
     display: inline-block;
   }
   .blok_left img {
@@ -1054,7 +1057,7 @@ a[href^="tel:"] {
 /************* max-width: 576px *************/
 @media (max-width: 576px) {
   .blok_rght {
-    padding: 0 45px 0 45px;
+    padding: 0 45px 30 45px;
     display: inline-block;
   }
   .your_name input {
@@ -1070,6 +1073,12 @@ a[href^="tel:"] {
   }
   .Your_Message input {
     width: 286px;
+  }
+  .contact_us span {
+    font-size: 35px;
+  }
+  .contact_up_line {
+    width: 148px;
   }
 }
 /* ***************  SECTION-8 END ************* */
@@ -1220,5 +1229,25 @@ a[href^="tel:"] {
     .directions_2{
       font-size: 10px;
     }
-  }
+    .projects span {
+      font-size: 35px;
+    }
+    .projects_3 span {
+      font-size: 35px;
+    }
+    .projects_2 span {
+      font-size: 35px;
+    }
+    .projects_5 span {
+      font-size: 35px;
+    }
+    .line_4 {
+      width: 70px;
+      margin-left: 52px;
+    }
+    .line_3 {
+      width: 94px;
+      margin-left: 120px;
+    }
+}
 /* ***************  SECTION-8 END ************* */
